@@ -5,7 +5,7 @@ const page = () => {
   <section className="text-gray-400 body-font bg-gray-900">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
-      <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">Thing's that I'm good at it</h1>
+      <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">Things that Im good at it</h1>
       <p className="lg:w-1/2 w-full leading-relaxed text-opacity-80">I always try to learn new technologies and go deeper with its core functionalities . These are my primary skills  and many more to come </p>
     </div>
     <div className="flex flex-wrap -m-4">
